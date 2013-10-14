@@ -6,13 +6,13 @@
     "node": "0.10.x",
     "npm": "1.2.x"
   },
-  "engines": {
-    "node": "0.10.x",
-    "npm": "1.2.x"
-  },
   "dependencies": {
     "express": "3.x",
     "zombie": "*",
     "ejs": "*"
+  },
+  "subdomain": "codefish",
+  "scripts": {
+    "start": "node start.js"
   }
 }
