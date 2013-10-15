@@ -3,4 +3,4 @@ Codefish
 
 This application is used for screencast tutorials about how to set up Codeship projects with Node.js applications.
 
-![Codeship Status](https://www.codeship.io/projects/ade10500-1244-0131-eb34-7ede9d09110e/status)
+![Codeship Status](https://www.codeship.io/projects/0e764200-176b-0131-4b50-1ac3aa3a99b7/status)
